@@ -1,0 +1,49 @@
+mark.blue{
+    color:#0066b2;
+    background: none;
+}
+mark.white{
+    color:#FFFFFF;
+    background: none;
+}
+.icons .fa{
+color:#0066b2;
+margin: 0 13px;
+cursor: pointer;
+padding: 18px 0;
+}
+.nav-item.dropdown {
+    position: relative;
+}
+
+
+.nav-link.dropdown-toggle {
+    color: #343a40; 
+}
+
+.dropdown-menu {
+    background-color: #fff; 
+    border: 1px solid rgba(0, 0, 0, 0.125); 
+    border-radius: 0.25rem; 
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); 
+}
+
+
+.dropdown-item {
+    color: #212529;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease; 
+}
+
+.dropdown-item.text-primary {
+    color: #007bff; 
+}
+
+.dropdown-item:hover {
+    background-color: #f8f9fa; 
+}
+
+.dropdown-divider {
+    border-top: 1px solid rgba(0, 0, 0, 0.125); 
+    margin: 0.5rem 0; 
+}
